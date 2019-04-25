@@ -123,26 +123,32 @@ justify-content: space-between;
 align-items: center;
 padding-top: 20px;
 padding-bottom: 20px;
-background-color: white;
 }
+
 .visually-hidden {
     visibility: hidden;
 }
+
 .button-green {
     background-color: #00ca74;
 }
+
 .button-green:hover {
     background-color: #00bc6c;
 }
+
 .button-green:active {
     background-color: #00aa62;
 }
+
 .button-yellow {
     background-color: #efc84a;
 }
+
 .button-yellow:hover {
     background-color: #eab534;
 }
+
 .button-yellow:active {
     background-color: #e5a722;
 }
