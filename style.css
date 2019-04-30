@@ -16,6 +16,10 @@ aside {
   margin-left: 300px;
 }
 
+.visually-hidden {
+  visibility: hidden;
+
+}
 /*шапка*/
 .header {
   background-color: #edeeef;
@@ -88,12 +92,12 @@ aside {
   background-color: #edeeef;
 }
 
-.slogan {
+.hero__slogan {
   font-size: 50px;
   font-weight: bold;
 }
 
-.description {
+.hero__description {
   font-size: 16px;
   font-weight: normal;
   color: #727578;
